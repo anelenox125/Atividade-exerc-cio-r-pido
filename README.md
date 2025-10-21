@@ -1,1 +1,1 @@
-# Atividade-exerc-cio-r-pido
+# Atividade-exercicio rapido
